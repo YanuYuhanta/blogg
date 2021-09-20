@@ -12,7 +12,7 @@ social:
     link: https://twitter.com/wowchemy
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.instagram.com/yanuyuhanta/
 organizations:
   - name: Stanford University
     url: ""
