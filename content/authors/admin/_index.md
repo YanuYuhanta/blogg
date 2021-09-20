@@ -1,6 +1,6 @@
 ---
 title: Yanu Yuhanta
-role: Professor of Artificial Intelligence
+role: Mahasiswa
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
