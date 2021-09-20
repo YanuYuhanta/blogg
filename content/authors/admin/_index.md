@@ -11,7 +11,7 @@ social:
     icon_pack: fab
     link: https://www.instagram.com/yanuyuhanta/
 organizations:
-  - name: Stanford University
+  - name: STMIK Akakom
     url: ""
 superuser: true
 ---
